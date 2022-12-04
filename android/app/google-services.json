@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88950843806",
+    "project_id": "polso-9395d",
+    "storage_bucket": "polso-9395d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88950843806:android:f304b86ed1162b17ebce8f",
+        "android_client_info": {
+          "package_name": "com.example.polso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88950843806-a0fmr8aapa95k2kclo598cmd9ldoi2t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0WhquU7tM4LJv09jVwm36Z9LePGwrGZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88950843806-a0fmr8aapa95k2kclo598cmd9ldoi2t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
